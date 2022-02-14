@@ -1,8 +1,8 @@
 <template>
-  <nav class="bg-white text-gray-800 flex py-4 px-8 justify-between border-b z-50">
+  <nav class="bg-gray-800 text-gray-800 flex py-2 px-6 justify-between border-b z-50">
     <div class="flex">
       <h1 class="my-auto text-3xl font-semibold tracking-tighter text-teal-600">
-        <!-- LOGO HERE -->
+        <img class="h-8 w-8" src="https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg" alt="Workflow">
       </h1>
     </div>
 

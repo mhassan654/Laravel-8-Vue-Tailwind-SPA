@@ -1,5 +1,5 @@
 <template>
-  <div class="flex w-screen h-screen">
+  <div class="flex  h-screen">
     <div class="m-auto flex flex-col max-w-screen">
       <div class="p-8 mx-auto text-center">
         <h1 class="text-4xl font-bold text-gray-800 mb-1 tracking-tight">
